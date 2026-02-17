@@ -1,0 +1,376 @@
+Age,Job_Title,Salary
+32 Male Bachelor's 5,Software Engineer,90000
+28 Female Master's 3,Data Analyst,65000
+45 Male PhD 15,Senior Manager,150000
+36 Female Bachelor's 7,Sales Associate,60000
+52 Male Master's 20,Director,200000
+29 Male Bachelor's 2,Marketing Analyst,55000
+42 Female Master's 12,Product Manager,120000
+31 Male Bachelor's 4,Sales Manager,80000
+26 Female Bachelor's 1,Marketing Coordinator,45000
+38 Male PhD 10,Senior Scientist,110000
+29 Male Master's 3,Software Developer,75000
+48 Female Bachelor's 18,HR Manager,140000
+35 Male Bachelor's 6,Financial Analyst,65000
+40 Female Master's 14,Project Manager,130000
+27 Male Bachelor's 2,Customer Service Rep,40000
+44 Male Bachelor's 16,Operations Manager,125000
+33 Female Master's 7,Marketing Manager,90000
+39 Male PhD 12,Senior Engineer,115000
+25 Female Bachelor's 0,Data Entry Clerk,35000
+51 Male Bachelor's 22,Sales Director,180000
+34 Female Master's 5,Business Analyst,80000
+47 Male Master's 19,VP of Operations,190000
+30 Male Bachelor's 2,IT Support,50000
+36 Female Bachelor's 9,Recruiter,60000
+41 Male Master's 13,Financial Manager,140000
+28 Female Bachelor's 3,Social Media Specialist,45000
+37 Female Master's 11,Software Manager,110000
+24 Male Bachelor's 1,Junior Developer,40000
+43 Female PhD 15,Senior Consultant,140000
+33 Male Master's 6,Product Designer,90000
+50 Male Bachelor's 25,CEO,250000
+31 Female Bachelor's 4,Accountant,55000
+29 Male Master's 3,Data Scientist,75000
+39 Female Bachelor's 10,Marketing Specialist,65000
+46 Male PhD 20,Senior Manager,170000
+27 Male Bachelor's 2,Technical Writer,45000
+35 Female Bachelor's 7,HR Generalist,60000
+42 Male Master's 14,Project Engineer,115000
+26 Female Bachelor's 1,Customer Success Rep,40000
+49 Male Bachelor's 21,Sales Executive,160000
+34 Female Master's 5,UX Designer,80000
+48 Male Master's 18,Operations Director,190000
+30 Male Bachelor's 3,Network Engineer,60000
+36 Female Bachelor's 8,Administrative Assistant,45000
+41 Male Master's 13,Strategy Consultant,130000
+28 Female Bachelor's 2,Copywriter,40000
+32 Male Bachelor's 5,Account Manager,75000
+45 Female Master's 16,Director of Marketing,180000
+38 Male PhD 11,Senior Scientist,120000
+25 Male Bachelor's 0,Help Desk Analyst,35000
+51 Female Bachelor's 22,Customer Service Manager,130000
+33 Male Master's 7,Business Intelligence Analyst,85000
+40 Female Bachelor's 12,Event Coordinator,60000
+47 Male Master's 19,VP of Finance,200000
+29 Female Bachelor's 3,Graphic Designer,50000
+36 Male Bachelor's 9,Sales Manager,95000
+27 Female Master's 2,UX Researcher,65000
+43 Male PhD 17,Senior Engineer,140000
+30 Female Bachelor's 4,Social Media Manager,55000
+35 Male Master's 7,Product Manager,105000
+51 Female Master's 23,Director of Operations,170000
+29 Male Bachelor's 3,Marketing Analyst,50000
+40 Female Bachelor's 12,HR Manager,80000
+47 Male PhD 21,Senior Data Scientist,180000
+26 Male Bachelor's 1,Junior Accountant,35000
+38 Female Master's 10,Digital Marketing Manager,90000
+46 Male Bachelor's 19,IT Manager,120000
+31 Female Bachelor's 5,Customer Service Representative,45000
+34 Male Master's 8,Business Development Manager,90000
+49 Female Master's 18,Senior Financial Analyst,150000
+33 Male Bachelor's 6,Web Developer,65000
+39 Female Bachelor's 11,Recruiter,70000
+45 Male PhD 16,Research Director,190000
+28 Male Bachelor's 2,Technical Support Specialist,40000
+42 Female Master's 14,Creative Director,120000
+37 Male Bachelor's 10,Project Manager,95000
+50 Female Bachelor's 22,Operations Manager,160000
+32 Male Master's 6,Senior Software Engineer,100000
+48 Female Master's 20,Human Resources Director,180000
+30 Female Bachelor's 3,Content Marketing Manager,55000
+36 Male Bachelor's 8,Technical Recruiter,70000
+41 Female Master's 13,Data Analyst,80000
+25 Male Bachelor's 0,Sales Representative,30000
+52 Male PhD 24,Chief Technology Officer,250000
+29 Female Bachelor's 2,Junior Designer,40000
+34 Female Master's 10,Financial Advisor,95000
+27 Male Bachelor's 2,Junior Account Manager,45000
+40 Female Bachelor's 15,HR Generalist,80000
+46 Male Master's 21,Senior Project Manager,135000
+31 Female Bachelor's 6,Marketing Coordinator,55000
+36 Male PhD 11,Principal Scientist,120000
+29 Female Bachelor's 3,Sales Associate,40000
+43 Male Bachelor's 18,Supply Chain Manager,105000
+52 Female Master's 25,Senior Marketing Manager,170000
+33 Male Bachelor's 7,Business Analyst,75000
+39 Female Bachelor's 12,Training Specialist,65000
+47 Male PhD 22,Research Scientist,160000
+26 Male Bachelor's 1,Junior Software Developer,35000
+38 Female Master's 10,Public Relations Manager,90000
+45 Male Bachelor's 20,Operations Analyst,110000
+31 Female Bachelor's 5,Event Coordinator,45000
+35 Male Master's 8,Product Marketing Manager,95000
+49 Female Master's 19,Senior HR Manager,150000
+33 Male Bachelor's 5,Junior Web Developer,50000
+39 Female Master's 13,Senior Project Coordinator,80000
+44 Male PhD 16,Chief Data Officer,220000
+30 Female Bachelor's 3,Digital Content Producer,50000
+36 Male Bachelor's 7,IT Support Specialist,60000
+41 Female Master's 14,Senior Marketing Analyst,100000
+28 Male Bachelor's 2,Customer Success Manager,40000
+42 Female Master's 15,Senior Graphic Designer,110000
+37 Male Bachelor's 9,Software Project Manager,95000
+50 Female Bachelor's 22,Supply Chain Analyst,130000
+32 Male Master's 6,Senior Business Analyst,90000
+23 Female Bachelor's 0.5,Junior Marketing Analyst,35000
+31 Male Master's 6,Senior Financial Analyst,95000
+40 Female Bachelor's 15,Office Manager,65000
+48 Male PhD 20,Principal Engineer,170000
+29 Female Bachelor's 3,Junior HR Generalist,45000
+35 Male Master's 10,Senior Product Manager,120000
+42 Female Bachelor's 17,Sales Manager,100000
+53 Male Master's 25,Director of Marketing,180000
+33 Female Bachelor's 5,Junior Operations Analyst,50000
+38 Male Bachelor's 11,Customer Service Manager,80000
+44 Female PhD 16,Senior Scientist,140000
+26 Male Bachelor's 2,Junior Accountant,40000
+37 Female Master's 9,Senior HR Generalist,95000
+45 Male Bachelor's 18,Sales Operations Manager,110000
+32 Female Bachelor's 4,Marketing Coordinator,50000
+34 Male Master's 8,Senior Software Developer,105000
+50 Female Master's 21,Director of Operations,160000
+29 Male Bachelor's 3,Junior Web Designer,45000
+40 Female Master's 12,Senior Training Specialist,100000
+47 Male PhD 22,Senior Research Scientist,160000
+27 Male Bachelor's 1,Junior Sales Representative,35000
+39 Female Bachelor's 10,Administrative Assistant,55000
+46 Male Master's 19,Senior Project Manager,140000
+30 Female Bachelor's 4,Junior Marketing Manager,50000
+36 Male Bachelor's 7,Junior Data Analyst,60000
+43 Female Master's 14,Senior Product Marketing Manager,120000
+28 Male Bachelor's 2,Junior Business Analyst,40000
+41 Female Master's 13,Senior Marketing Manager,110000
+33 Male Bachelor's 5,Junior Software Developer,50000
+47 Male Bachelor's 20,Senior Sales Manager,135000
+25 Female Master's 1.5,Junior Marketing Specialist,40000
+34 Male Bachelor's 8,Senior Business Analyst,90000
+42 Female PhD 16,Senior Data Scientist,150000
+31 Male Bachelor's 4,Junior Project Manager,60000
+38 Female Bachelor's 10,Senior Accountant,80000
+45 Male Master's 19,Director of Sales,175000
+29 Female Bachelor's 3,Junior Recruiter,45000
+36 Male Master's 11,Senior Business Development Manager,120000
+43 Female PhD 18,Senior Product Designer,140000
+26 Male Bachelor's 2,Junior Customer Support Specialist,35000
+37 Female Master's 9,Senior Marketing Analyst,95000
+44 Male Bachelor's 14,Senior IT Support Specialist,110000
+32 Female Bachelor's 5,Junior Financial Analyst,50000
+33 Male Master's 7,Senior Operations Manager,115000
+51 Female PhD 23,Director of Human Resources,185000
+28 Male Bachelor's 2,Junior Software Engineer,40000
+39 Female Bachelor's 12,Senior Sales Representative,90000
+48 Male Master's 21,Director of Product Management,175000
+30 Female Bachelor's 3,Junior Copywriter,45000
+35 Male Bachelor's 7,Senior Marketing Coordinator,80000
+41 Female Master's 13,Senior Human Resources Manager,120000
+27 Male Bachelor's 1.5,Junior Business Development Associate,35000
+40 Female Bachelor's 14,Senior Account Manager,110000
+46 Male PhD 18,Senior Researcher,150000
+31 Female Bachelor's 4,Junior HR Coordinator,50000
+34 Male Master's 9,Senior Software Engineer,105000
+50 Female Master's 20,Director of Finance,180000
+29 Male Bachelor's 2,Junior Marketing Coordinator,40000
+   ,,
+43 Male Bachelor's 16,Senior Project Manager,140000
+26 Female Master's 1.5,Junior Data Scientist,45000
+35 Male Bachelor's 7,Senior Operations Analyst,85000
+42 Female PhD 18,Senior Marketing Manager,140000
+31 Male Bachelor's 4,Junior Accountant,50000
+38 Female Bachelor's 10,Senior Human Resources Coordinator,80000
+46 Male Master's 20,Director of Operations,170000
+29 Female Bachelor's 2,Junior Sales Representative,40000
+37 Male Master's 9,Senior Business Analyst,105000
+44 Female PhD 15,Senior UX Designer,145000
+27 Male Bachelor's 2,Junior Product Manager,40000
+36 Female Bachelor's 8,Senior Marketing Specialist,85000
+43 Male Bachelor's 14,Senior IT Project Manager,130000
+33 Female Master's 6,Senior Financial Analyst,95000
+34 Male Bachelor's 9,Senior Quality Assurance Analyst,100000
+50 Female PhD 22,Director of Sales and Marketing,180000
+28 Male Bachelor's 1.5,Junior Operations Analyst,35000
+39 Female Bachelor's 12,Senior Account Executive,95000
+47 Male Master's 19,Director of Business Development,170000
+30 Female Bachelor's 3,Junior Social Media Manager,45000
+34 Male Bachelor's 7,Senior Product Manager,95000
+40 Female Master's 13,Senior Human Resources Specialist,120000
+28 Male Bachelor's 2,Junior Business Analyst,40000
+41 Female Bachelor's 11,Senior Marketing Coordinator,90000
+45 Male PhD 17,Senior Data Analyst,155000
+32 Female Bachelor's 5,Junior Account Manager,55000
+35 Male Master's 9,Senior Software Developer,110000
+49 Female Master's 21,Director of Human Capital,180000
+30 Male Bachelor's 3,Junior Advertising Coordinator,45000
+44 Male Bachelor's 16,Senior Sales Manager,130000
+27 Female Master's 1.5,Junior UX Designer,45000
+36 Male Bachelor's 7,Senior Accountant,90000
+41 Female PhD 17,Senior Marketing Director,160000
+31 Male Bachelor's 4,Junior HR Generalist,50000
+39 Female Bachelor's 10,Senior Operations Manager,120000
+47 Male Master's 20,Director of Finance,170000
+30 Female Bachelor's 2,Junior Marketing Coordinator,40000
+38 Male Master's 9,Senior IT Consultant,110000
+45 Female PhD 15,Senior Product Designer,150000
+28 Male Bachelor's 2,Junior Business Development Associate,40000
+35 Female Bachelor's 8,Senior Marketing Analyst,85000
+44 Male Bachelor's 14,Senior Software Engineer,130000
+34 Female Master's 6,Senior Financial Advisor,100000
+35 Male Bachelor's 9,Senior Project Coordinator,95000
+50 Female PhD 22,Director of Operations,180000
+29 Male Bachelor's 1.5,Junior Business Operations Analyst,35000
+40 Female Bachelor's 12,Senior Sales Representative,100000
+48 Male Master's 19,Director of Marketing,170000
+31 Female Bachelor's 3,Junior Social Media Specialist,45000
+33 Male Bachelor's 7,Senior Product Development Manager,100000
+42 Female Master's 13,Senior Human Resources Manager,140000
+28 Male Bachelor's 2,Junior Financial Analyst,40000
+40 Female Bachelor's 11,Senior Marketing Manager,105000
+46 Male PhD 18,Senior Data Scientist,160000
+33 Female Bachelor's 5,Junior Operations Manager,70000
+37 Male Master's 9,Senior Software Architect,120000
+51 Female Master's 21,Director of Human Resources,190000
+30 Male Bachelor's 3,Junior Marketing Specialist,45000
+43 Male Bachelor's 15,Senior Project Manager,120000
+27 Female Master's 1.5,Junior Research Scientist,50000
+35 Male Bachelor's 8,Senior Operations Analyst,85000
+42 Female PhD 13,Senior Marketing Manager,140000
+32 Male Bachelor's 3,Junior Sales Representative,45000
+37 Female Bachelor's 9,Senior Financial Analyst,100000
+45 Male Master's 16,Senior Software Developer,140000
+33 Female Bachelor's 5,Junior Operations Analyst,70000
+39 Male Bachelor's 10,Senior Marketing Specialist,120000
+44 Female PhD 18,Senior HR Manager,160000
+29 Male Bachelor's 1.5,Junior Business Analyst,40000
+38 Female Bachelor's 10,Senior Product Manager,120000
+46 Male PhD 19,Senior Data Analyst,150000
+34 Female Bachelor's 6,Junior Marketing Analyst,70000
+36 Male Bachelor's 8,Senior Operations Manager,95000
+49 Female Master's 21,Director of Marketing,180000
+31 Male Bachelor's 3,Junior Financial Analyst,50000
+41 Female Bachelor's 11,Senior Project Coordinator,95000
+47 Male Master's 20,Director of Operations,170000
+30 Female Bachelor's 2,Junior Marketing Coordinator,40000
+38 Male Master's 9,Senior IT Consultant,110000
+45 Female PhD 15,Senior Product Designer,150000
+28 Male Bachelor's 2,Junior Business Development Associate,40000
+35 Female Bachelor's 8,Senior Marketing Analyst,85000
+44 Male Bachelor's 14,Senior Software Engineer,130000
+34 Female Master's 6,Senior Financial Advisor,100000
+35 Male Bachelor's 9,Senior Project Coordinator,95000
+50 Female PhD 22,Director of Operations,180000
+29 Male Bachelor's 1.5,Junior Business Operations Analyst,350
+   ,,
+37 Female Bachelor's 10,Senior Financial Manager,120000
+46 Male PhD 18,Senior Data Scientist,160000
+31 Female Bachelor's 3,Junior Marketing Coordinator,50000
+42 Male Bachelor's 12,Senior Operations Manager,110000
+29 Female Bachelor's 1.5,Junior Sales Representative,40000
+36 Male Bachelor's 8,Senior Marketing Specialist,95000
+44 Female Master's 15,Senior HR Specialist,140000
+33 Male Bachelor's 4,Junior Operations Manager,60000
+39 Female Bachelor's 9,Senior Marketing Coordinator,110000
+45 Male PhD 16,Senior Data Engineer,150000
+32 Female Bachelor's 4,Junior Marketing Manager,60000
+37 Male Bachelor's 8,Senior Financial Analyst,90000
+47 Female Master's 20,Director of Marketing,180000
+30 Male Bachelor's 2,Junior Business Analyst,40000
+38 Female Bachelor's 9,Senior Project Manager,120000
+46 Male PhD 17,Senior Data Analyst,160000
+34 Female Bachelor's 5,Junior Financial Analyst,70000
+36 Male Bachelor's 8,Senior Product Manager,95000
+49 Female Master's 21,Director of Operations,180000
+31 Male Bachelor's 3,Junior Operations Analyst,50000
+41 Female Bachelor's 11,Senior Project Coordinator,95000
+47 Male Master's 19,Director of Marketing,170000
+29 Female Bachelor's 1.5,Junior Business Development Associate,35000
+35 Male Bachelor's 9,Senior Financial Manager,100000
+44 Female PhD 15,Senior Product Designer,150000
+33 Male Bachelor's 4,Junior Business Analyst,60000
+35 Female Bachelor's 8,Senior Marketing Analyst,85000
+44 Male Bachelor's 13,Senior Software Engineer,130000
+32 Male Bachelor's 4,Junior Product Manager,65000
+38 Female Bachelor's 10,Senior Business Analyst,110000
+49 Male PhD 21,Director of Operations,180000
+29 Female Bachelor's 2,Junior Marketing Specialist,40000
+35 Male Bachelor's 7,Senior Business Development Manager,90000
+45 Female Master's 14,Senior HR Manager,140000
+33 Male Bachelor's 4,Junior Financial Analyst,60000
+40 Female Bachelor's 12,Senior Marketing Manager,130000
+44 Male PhD 16,Senior Data Scientist,160000
+30 Female Bachelor's 2,Junior Operations Coordinator,40000
+37 Male Bachelor's 9,Senior Marketing Analyst,100000
+48 Female Master's 20,Director of HR,180000
+31 Male Bachelor's 3,Junior Project Manager,55000
+38 Female Bachelor's 9,Senior Operations Coordinator,120000
+45 Male PhD 16,Senior Data Engineer,150000
+33 Female Bachelor's 5,Junior Marketing Manager,70000
+36 Male Bachelor's 8,Senior Business Analyst,95000
+49 Female Master's 21,Director of Marketing,180000
+31 Male Bachelor's 3,Junior Operations Analyst,50000
+42 Female Bachelor's 12,Senior Project Manager,120000
+47 Male Master's 19,Director of Marketing,170000
+29 Female Bachelor's 1.5,Junior Business Development Associate,35000
+35 Male Bachelor's 9,Senior Financial Manager,100000
+44 Female PhD 15,Senior Product Designer,150000
+33 Male Bachelor's 4,Junior Business Analyst,60000
+35 Female Bachelor's 8,Senior Marketing Analyst,85000
+44 Male Bachelor's 13,Senior Software Engineer,130000
+34 Female Master's 6,Senior Financial Advisor,80000
+36 Male Bachelor's 8,Senior Marketing Specialist,95000
+30 Female Bachelor's 2,Junior HR Coordinator,40000
+37 Male Bachelor's 10,Senior Business Development Manager,120000
+45 Female Master's 16,Senior Marketing Manager,160000
+32 Male Bachelor's 4,Junior Financial Advisor,65000
+39 Female Bachelor's 12,Senior Project Manager,130000
+47 Male PhD 20,Director of Engineering,180000
+29 Female Bachelor's 2,Junior Marketing Analyst,40000
+36 Male Bachelor's 9,Senior Operations Manager,100000
+43 Female PhD 15,Senior Data Scientist,150000
+32 Male Bachelor's 3,Junior Marketing Coordinator,55000
+38 Female Bachelor's 10,Senior Business Analyst,110000
+48 Male Master's 21,Director of Marketing,180000
+31 Female Bachelor's 3,Junior Business Development Associate,50000
+40 Male Bachelor's 12,Senior Financial Analyst,130000
+45 Female PhD 16,Senior UX Designer,160000
+33 Male Bachelor's 4,Junior Product Manager,60000
+36 Female Bachelor's 8,Senior Marketing Manager,95000
+47 Male Master's 19,Director of Operations,170000
+29 Female Bachelor's 2,Junior Project Manager,40000
+34 Male Bachelor's 7,Senior Operations Coordinator,90000
+44 Female PhD 15,Senior Business Analyst,150000
+33 Male Bachelor's 5,Junior Marketing Specialist,70000
+35 Female Bachelor's 8,Senior Financial Manager,90000
+43 Male Master's 18,Director of Marketing,170000
+31 Female Bachelor's 3,Junior Financial Analyst,50000
+41 Male Bachelor's 14,Senior Product Manager,150000
+44 Female PhD 16,Senior Data Engineer,160000
+33 Male Bachelor's 4,Junior Business Analyst,60000
+35 Female Bachelor's 8,Senior Marketing Analyst,85000
+45 Male Master's 19,Director of Engineering,180000
+28 Female Bachelor's 1,Junior Operations Manager,35000
+36 Male Bachelor's 8,Senior Business Development Manager,110000
+44 Female PhD 16,Senior Data Scientist,160000
+31 Male Bachelor's 3,Junior Marketing Coordinator,55000
+38 Female Bachelor's 10,Senior Business Analyst,110000
+48 Male Master's 21,Director of Marketing,180000
+31 Female Bachelor's 3,Junior Business Development Associate,50000
+40 Male Bachelor's 12,Senior Financial Analyst,130000
+45 Female PhD 16,Senior UX Designer,160000
+33 Male Bachelor's 4,Junior Product Manager,60000
+36 Female Bachelor's 8,Senior Marketing Manager,95000
+47 Male Master's 19,Director of Operations,170000
+29 Female Bachelor's 2,Junior Project Manager,40000
+34 Male Bachelor's 7,Senior Operations Coordinator,90000
+44 Female PhD 15,Senior Business Analyst,150000
+33 Male Bachelor's 5,Junior Marketing Specialist,70000
+35 Female Bachelor's 8,Senior Financial Manager,90000
+43 Male Master's 18,Director of Marketing,170000
+31 Female Bachelor's 3,Junior Financial Analyst,50000
+41 Male Bachelor's 14,Senior Product Manager,150000
+44 Female PhD 16,Senior Data Engineer,160000
+33 Male Bachelor's 4,Junior Business Analyst,60000
+35 Female Bachelor's 8,Senior Marketing Analyst,85000
+43 Male Master's 19,Director of Operations,170000
+29 Female Bachelor's 2,Junior Project Manager,40000
+34 Male Bachelor's 7,Senior Operations Coordinator,90000
+44 Female PhD 15,Senior Business Analyst,150000
